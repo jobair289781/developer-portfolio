@@ -13,6 +13,13 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 150px;
+}
+
+.dream-big {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
 
 .half-width {
