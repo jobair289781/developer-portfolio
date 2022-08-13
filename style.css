@@ -43,3 +43,21 @@ h1 {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+
+.orange-color {
+    color: orange;
+}
+
+.experience-item {
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 40%;
+    padding-left: 10px;
+}
+
+.experience-area {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
