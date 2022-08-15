@@ -61,3 +61,15 @@ h1 {
     background-repeat: no-repeat;
     background-position: left;
 }
+
+#full-stake-development {
+    border-left: 7px solid;
+    border-image: linear-gradient(tomato, red);
+    border-image-slice: 1;
+}
+
+#web-development-experience {
+    border-left: 7px solid;
+    border-image: linear-gradient(gray, blue);
+    border-image-slice: 1;
+}
