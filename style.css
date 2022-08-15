@@ -73,3 +73,7 @@ h1 {
     border-image: linear-gradient(gray, blue);
     border-image-slice: 1;
 }
+
+footer p {
+    text-align: center;
+}
